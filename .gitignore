@@ -31,4 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
-.java_api/src/test/java/com/openclassrooms/api/ApiApplicationTests.java
+./src/test/java/com/openclassrooms/api/ApiApplicationTests.java
